@@ -5,8 +5,8 @@ This is the repository where I will organize and link all of my relevant project
 ### Easy Projects
 
 ### Medium Projects
-#### &emsp; · Marketing Analytics Project for a Fintech Company [Nuclio Master’s Final Project](https://github.com/Sumodenaranja/Proyecto-Final-Nuclio-Finetech)
-&emsp; &nbsp; Analysis of marketing campaign to identify patterns, trends, and key factors influencing customer subscription to term deposits. Includes data analysis, campaign response evaluation, simple predictive modeling, interactive dashboards, and actionable recommendations.
+- **Marketing Analytics Project for a Fintech Company** [Nuclio Master’s Final Project](https://github.com/Sumodenaranja/Proyecto-Final-Nuclio-Finetech)  
+  Analysis of marketing campaign to identify patterns, trends, and key factors influencing customer subscription to term deposits. Includes data analysis, campaign response evaluation, simple predictive modeling, interactive dashboards, and actionable recommendations.
 
 
 
