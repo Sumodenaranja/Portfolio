@@ -25,7 +25,7 @@ This is the repository where I will organize and link all of my relevant project
 
 ## Applications
 ### Easy Projects
-- Sending notifications to my phone through python [PhoneNotifications](https://github.com/Sumodenaranja/PhoneNotifications)
+- Sending notifications to my phone through python [PhoneNotifications](https://github.com/Sumodenaranja/PhoneNotifications)  
   This is a very simple project that helped me learn how to use APIs.
 
 <!---
