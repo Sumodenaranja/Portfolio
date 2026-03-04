@@ -25,17 +25,19 @@ This is the repository where I will organize and link all of my relevant project
 
 ## Applications
 ### Easy Projects
-#### &emsp; · Sending notifications to my phone through python [PhoneNotifications](https://github.com/Sumodenaranja/PhoneNotifications)
-  &emsp; &nbsp; This is a very simple project that helped me learn how to use APIs.
-
-## Programing Problems
-- Personal solutions to the Advent of Code [Advent of Code Solutions](https://github.com/Sumodenaranja/advent-of-code)  
-  A collection of my personal solutions to the Advent of Code challenges. Developed problem-solving and algorithmic thinking skills, practiced writing clean and efficient code, and explored different programming approaches to solve complex problems.
+- Sending notifications to my phone through python [PhoneNotifications](https://github.com/Sumodenaranja/PhoneNotifications)
+  This is a very simple project that helped me learn how to use APIs.
 
 <!---
 ### Medium Projects
 
 ### Hard Projects
 -->
+
+## Programing Problems
+- Personal solutions to the Advent of Code [Advent of Code Solutions](https://github.com/Sumodenaranja/advent-of-code)  
+  A collection of my personal solutions to the Advent of Code challenges. Developed problem-solving and algorithmic thinking skills, practiced writing clean and efficient code, and explored different programming approaches to solve complex problems.
+
+
 
 
