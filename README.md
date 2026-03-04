@@ -29,7 +29,7 @@ This is the repository where I will organize and link all of my relevant project
   &emsp; &nbsp; This is a very simple project that helped me learn how to use APIs.
 
 ## Programing Problems
-- Personal solutions to the Advent of Code [Advent of Code](https://github.com/Sumodenaranja/advent-of-code)  
+- Personal solutions to the Advent of Code [Advent of Code Solutions](https://github.com/Sumodenaranja/advent-of-code)  
   A collection of my personal solutions to the Advent of Code challenges. Developed problem-solving and algorithmic thinking skills, practiced writing clean and efficient code, and explored different programming approaches to solve complex problems.
 
 <!---
