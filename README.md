@@ -5,7 +5,7 @@ This is the repository where I will organize and link all of my relevant project
 
 - **Marketing Analytics Project for a Fintech Company** [Nuclio Master’s Final Project](https://github.com/Sumodenaranja/Proyecto-Final-Nuclio-Finetech)  
   Analysis of marketing campaign to identify patterns, trends, and key factors influencing customer subscription to term deposits. Includes data analysis, campaign response evaluation, simple predictive modeling, interactive dashboards, and actionable recommendations.
-- **Real-World Data Drills** [Data Drills](https://github.com/Sumodenaranja/Data-Drills)
+- **Real-World Data Drills** [Data Drills](https://github.com/Sumodenaranja/Data-Drills)  
     Developed practical data analysis skills through small, real-world challenges. Improved problem-solving, learned to handle messy datasets, and practiced applying techniques that data professionals use on the job.
 
 <!---
